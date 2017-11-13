@@ -2,7 +2,7 @@
 // @name         2UI For Scratch 3
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @description  Moving elements to position everything like Scratch 2. 
+// @description  Positioning like Scratch 2
 // @author       infinitytec and JGames101
 // @match        https://llk.github.io/scratch-gui/*
 // @grant        GM_addStyle
