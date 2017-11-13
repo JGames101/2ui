@@ -32,7 +32,6 @@
     GM_addStyle(".gui_flex-wrapper_uXHkj{}");
     GM_addStyle(".gui_editor-wrapper_2DYcj {position: relative; width: 60%; left: 39%;}");
     GM_addStyle(".gui_stage-and-target-wrapper_69KBf {position: relative; width: 40%; right: 61%;}");
-    GM_addStyle(".gui_stage-menu-wrapper_W5Ler {border-radius: 10px 10px 0px 0px;border: 1px solid #D0D1D2;margin-left: 0.5rem;margin-right: 0.5rem;margin-top: 5px;}");
     GM_addStyle(".target-pane_stage-selector-wrapper_qekSW {position: relative;right: 85%;}");
     GM_addStyle(".sprite-selector_sprite-selector_2KgCX {position: relative;left: 16.5%;}");
     GM_addStyle(".controls_controls-container_2xinB {position: relative; left: 87%;");
